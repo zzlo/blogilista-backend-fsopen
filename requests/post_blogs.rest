@@ -2,8 +2,8 @@ POST http://localhost:3001/api/blogs
 Content-Type: application/json
 
 {
-    "title": "kellokortti",
-    "author": "mauri pekkarinen",
+    "title": "life of mauri",
+    "author": "mauri teletappi",
     "url": "keskusta.com",
-    "likes": 100
+    "likes": 101
 }
